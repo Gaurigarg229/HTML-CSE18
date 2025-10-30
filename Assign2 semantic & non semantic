@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome!</h1>
+    </header>
+    <div>
+        <p> This is a div (non semantic)</p>
+    </div>
+    <span> This is a span (non semantic)</span>
+    <footer>
+        <p> 2025 Basic Page </p>
+    </footer>
+    <section>
+        <h2> links</h2>
+        <a href="https://www.google.com">Go to google </a> <br>
+        <a href="https://www.openai.com"><img 
+            src ="https://sl.bing.net/clCBtBKertI" width ="200" controls>
+            <source 
+            src="https://youtu.be/QC8iQqtG0hg?si=0j-UN1voY55uYVaa"</vedio>
+        </a><br>
+
+</body>
+</html>
